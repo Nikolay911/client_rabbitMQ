@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "password": "$2a$10$sA10xcuIh\/PX.yZe.CEzzetHeJ\/\/bflnKEYPKo1riF5BpGzcOnCHK",
+      "role": "ROLE_admin",
+      "customerId": 670,
+      "login": "1"
+    }
+  ]
+}

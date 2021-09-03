@@ -1,0 +1,21 @@
+[
+  {
+    "patronymic": "admin",
+    "surname": "admin",
+    "name": "admin",
+    "dateOfBirth": "2010-01-06",
+    "id": 670
+  }
+]{
+  "id": 670,
+  "name": admin,
+  "surname": admin,
+  "patronymic": admin,
+  "dateOfBirth": "2010-01-06"
+}
+trueProduct(id=672, foto=C:\lApp\image.png, path=C://lApp//image.png, productDescription=Какое-то описание продук
+Product(id=672, foto=null, path=C:\dApp\672.png, productDescription=Какое-то описание продук
+Product(id=672, foto=null, path=C:\dApp\672.png, productDescription=Какое-то описание продук
+AuctionModel(id=674, customerWhoCreatedAuction=670, auctionStartDate=2021-09-03 12:32:02.57, auctionCompletionDate=2021-09-16 10:31:00.0, applicationStatus=InProgress)
+AuctionModel(id=674, customerWhoCreatedAuction=670, auctionStartDate=2021-09-03 12:32:02.57, auctionCompletionDate=2021-09-16 10:31:00.0, applicationStatus=InProgress)
+Заявка на участие созданаOrder(id=675, customerPrice=111.0, bidDate=20
